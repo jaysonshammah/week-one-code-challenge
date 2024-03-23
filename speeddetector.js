@@ -27,4 +27,4 @@ function speedDetector(speedInput) {
 }
 return response;
 }
-show(speedDetector(response));
+show(speedDetector());
