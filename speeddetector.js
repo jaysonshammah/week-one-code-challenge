@@ -25,6 +25,7 @@ function speedDetector(speedInput) {
         response = "License suspended" + demerits;
     }
 }
+
 return response;
 }
 show(speedDetector());
